@@ -1,3 +1,4 @@
 # beecrowd
 
-Problemas do Beecrowd em java.
+Resolução de Desafios do Beecrowd em java.
+
